@@ -1,4 +1,5 @@
 # Book_Store_Management_System
-oops project 2019
-# Technology Used: C++
-The project uses Oops concepts and file handling to manage information about the books in a bookstore. This project is made using C++ programming language.
+Created a console application of Book Management System in C++.
+Utilized Object-Oriented Programming, which gives us a quick and efficient approach to locate and sell books.
+In addition to these features ,users can even add new books to the store.
+
